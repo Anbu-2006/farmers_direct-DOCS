@@ -9,3 +9,4 @@ Automated and verified release changelog.
 - [2025-08-30 09:22] style(banners): add interactive architecture diagrams and feature badge ribbons
 - [2025-09-02 09:36] docs(arch): document direct-to-consumer agricultural architecture
 - [2025-09-04 09:21] docs(flows): add order lifecycle sequence diagrams and state machine specs
+- [2025-09-06 09:38] docs(api): document payment gateway webhook verification and idempotency keys
