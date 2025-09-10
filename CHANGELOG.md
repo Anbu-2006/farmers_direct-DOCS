@@ -10,3 +10,4 @@ Automated and verified release changelog.
 - [2025-09-02 09:36] docs(arch): document direct-to-consumer agricultural architecture
 - [2025-09-04 09:21] docs(flows): add order lifecycle sequence diagrams and state machine specs
 - [2025-09-06 09:38] docs(api): document payment gateway webhook verification and idempotency keys
+- [2025-09-10 09:39] docs(deployment): add Docker compose configuration and deployment checklist
