@@ -21,3 +21,4 @@ Automated and verified release changelog.
 - [2025-10-05 09:29] docs(flows): add order lifecycle sequence diagrams and state machine specs
 - [2025-10-07 09:19] docs(api): document payment gateway webhook verification and idempotency keys
 - [2025-10-09 09:34] docs(deployment): add Docker compose configuration and deployment checklist
+- [2025-10-11 09:45] style(banners): add interactive architecture diagrams and feature badge ribbons
