@@ -22,3 +22,4 @@ Automated and verified release changelog.
 - [2025-10-07 09:19] docs(api): document payment gateway webhook verification and idempotency keys
 - [2025-10-09 09:34] docs(deployment): add Docker compose configuration and deployment checklist
 - [2025-10-11 09:45] style(banners): add interactive architecture diagrams and feature badge ribbons
+- [2025-10-14 09:33] docs(arch): document direct-to-consumer agricultural architecture
