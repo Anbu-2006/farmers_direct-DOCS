@@ -1,0 +1,39 @@
+PROPRIETARY SOFTWARE & COMMERCIAL SHOWCASE LICENSE
+===================================================
+
+Copyright (c) 2026 Anbuselvan T. (@Anbu-2006). All Rights Reserved.
+
+NOTICE
+------
+This repository serves as the official public technical showcase and 
+concept overview for FarmersDirect — an autonomous direct farm-to-consumer 
+fair commerce platform and agri-logistics mesh.
+
+It contains high-level operational workflows, fair pricing architecture,
+and product roadmap documentation ONLY.
+
+The underlying backend marketplace engines, database schemas, dynamic
+pooling algorithms, escrow payment settlement handlers, and core application
+code are maintained within the author's private primary development repository
+and remain the exclusive, proprietary intellectual property of Anbuselvan T.
+
+PERMITTED USAGE
+---------------
+You MAY:
+  1. Review, star, and share this repository for evaluation and technical review.
+  2. Open GitHub issues to suggest features, inquire regarding agricultural 
+     cooperative partnerships, or express interest in upcoming pilot programs.
+  3. Reference the public agricultural commerce frameworks with proper attribution.
+
+RESTRICTIONS
+------------
+You may NOT:
+  1. Claim ownership of or commercially deploy the FarmersDirect name, branding,
+     or architecture.
+  2. Replicate, harvest, or commercialize the proprietary business logic.
+  3. Redistribute the contents without prior written consent from the author.
+
+CONTACT & INQUIRIES
+-------------------
+Founder & Lead Architect: Anbuselvan T.
+GitHub: https://github.com/Anbu-2006
